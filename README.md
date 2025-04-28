@@ -37,8 +37,7 @@
 <div align="left">
   <img src="https://th.bing.com/th/id/R.f251bbd46afb2ce0d25a56484cbf8d7f?rik=ZkZ7tNEmVVzvSg&pid=ImgRaw&r=0" height="40" alt="Javascript logo"  />
   <img width="12" />
-  <img src="![image](https://github.com/user-attachments/assets/8f9fc179-1c59-4575-9c94-59ca088fffe6)
-" height="40" alt="java logo"  />
+  <img src="https://assets.stickpng.com/thumbs/62a86f6014a38cce0c371c16.png" height="40" alt="java logo"  />
   <img width="12" />
   <img src="[https://th.bing.com/th/id/R.e1d424c4b9be7009dd57ef4e7d58e343?rik=EZ8NO5x85jZ0Vg&riu=http%3a%2f%2f1.bp.blogspot.com%2f-NGHwBncyA68%2fUiMm_8b2ZUI%2fAAAAAAAAAnA%2f17OGXCKI4zE%2fs1600%2fLogo%2bHTML5.JPG&ehk=rnVe3RUksYQ4LMnsZ6Xxyf3F5lkj3Br1Eu6vOVCkYh0%3d&risl=&pid=ImgRaw&r=0](https://logospng.org/wp-content/uploads/html-5.png)" height="40" alt="HTML logo"  />
   <img width="12" />
