@@ -37,9 +37,9 @@
 <div align="left">
   <img src="https://th.bing.com/th/id/R.f251bbd46afb2ce0d25a56484cbf8d7f?rik=ZkZ7tNEmVVzvSg&pid=ImgRaw&r=0" height="40" alt="Javascript logo"  />
   <img width="12" />
-  <img src="https://assets.stickpng.com/thumbs/62a86f6014a38cce0c371c16.png" height="40" alt="java logo"  />
+  <img src="https://static.vecteezy.com/system/resources/previews/022/100/214/non_2x/java-logo-transparent-free-png.png" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="[https://th.bing.com/th/id/R.e1d424c4b9be7009dd57ef4e7d58e343?rik=EZ8NO5x85jZ0Vg&riu=http%3a%2f%2f1.bp.blogspot.com%2f-NGHwBncyA68%2fUiMm_8b2ZUI%2fAAAAAAAAAnA%2f17OGXCKI4zE%2fs1600%2fLogo%2bHTML5.JPG&ehk=rnVe3RUksYQ4LMnsZ6Xxyf3F5lkj3Br1Eu6vOVCkYh0%3d&risl=&pid=ImgRaw&r=0](https://logospng.org/wp-content/uploads/html-5.png)" height="40" alt="HTML logo"  />
+  <img src="https://th.bing.com/th/id/R.cae1b4f6b223fe5a7bb712b680cffa67?rik=DpBcDgsVsaTpvQ&riu=http%3a%2f%2fassets.stickpng.com%2fthumbs%2f5847f5bdcef1014c0b5e489c.png&ehk=ce9Og%2fYuXZic%2fTWR15NzqGIfTXj2rnuAd3m00U%2fIAWU%3d&risl=&pid=ImgRaw&r=0" height="40" alt="HTML logo"  />
   <img width="12" />
   <img src="https://th.bing.com/th/id/R.7c12764796349bfb505d4c5d73489c3d?rik=bM4AFS0UAqY17g&pid=ImgRaw&r=0" height="40" alt="CSS logo"  />
 
